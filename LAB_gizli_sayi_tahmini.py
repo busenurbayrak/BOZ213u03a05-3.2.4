@@ -1,3 +1,4 @@
+secret_number = 777
 print(
 """
 
